@@ -18,3 +18,5 @@ Modules:
 In every sigle JavaScript file we have the global object "module", well this an object that give us some interesting properties, in that properties we have "exports".
 
 The "exports" propertie let use a "require()" our module and then we can use the information of that required program to work with that information.
+
+--We stop at 39:02
