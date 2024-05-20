@@ -6,6 +6,8 @@ __dirname : This object contains the name of the path were we are currently work
 
 __filename: This object contains the name of the file we we are currently working:
 
-__require: This is the function for consume and exports our ES modules.
+require: This is the function for consume and exports our ES modules.
 
-__module:  This object contains the module of the currently file were we are workin
+module:  This object contains the module of the currently file were we are working for.
+
+process: This object contains the info about were we are executing our program.
