@@ -19,4 +19,12 @@ In every sigle JavaScript file we have the global object "module", well this an 
 
 The "exports" propertie let use a "require()" our module and then we can use the information of that required program to work with that information.
 
---We stop at 39:02
+
+At the moment that we define a module.exports we can access directly with a require in other part of our program  like an object.
+
+this object will contains in their properties the info that we put inside the export object
+
+We can define directly new properties in the module export object too.
+ 
+
+--We stop at 50:00
