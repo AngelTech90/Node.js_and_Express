@@ -51,4 +51,4 @@ OS module:  This module contain all the things releated with our operative syste
 for consume the module we use "require('os')".
 
 
---We stop at 1:20:08
+--We stop at 1:41:51
