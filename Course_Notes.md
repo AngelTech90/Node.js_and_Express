@@ -1,6 +1,6 @@
 This is the start of my traveling od this course:
 
-GLOBALS OBJECTS IN NODE:
+## GLOBALS OBJECTS IN NODE:
 
 __dirname : This object contains the name of the path were we are currently working.
 
@@ -13,7 +13,7 @@ module:  This object contains the module of the currently file were we are worki
 process: This object contains the info about were we are executing our program.
 
 
-Modules:
+## Modules:
 
 In every sigle JavaScript file we have the global object "module", well this an object that give us some interesting properties, in that properties we have "exports".
 
@@ -38,7 +38,7 @@ For example we export in a module object 2 different vars called "Jose" and "Ang
 const {Jose, Angelo} = require('./exampleModule');
 
 
-NODE BUILT-IN MODULES:
+## NODE BUILT-IN MODULES:
 
 Every single method here have a loot of methods and other features that we can learn seeing the node.js documentation:
 
